@@ -1,0 +1,7 @@
+LoginData.xml
+*.exe
+/.vs
+/.vscode
+/bin
+/obj
+*.ps1
